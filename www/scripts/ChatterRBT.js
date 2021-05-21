@@ -26,7 +26,7 @@ HiChat.prototype = {
             if (document.getElementById('loginWrapper').style.display == 'none') {
                 document.getElementById('status').textContent = 'Failed to connect. :(';
             } else {
-                document.getElementById('info').textContent = '!fail to connect :(';
+                document.getElementById('info').textContent = 'Failed to connect :(';
             }
         });
         this.socket.on('system', function (nickName, userCount, type) {
