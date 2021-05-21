@@ -13,6 +13,3 @@ Please go to <a href="www/content/emoji.zip">www/content/emoji.zip</a> and extra
 # License 
 Please see the license(MLT)
 
-# Author
-
-Harshavardhana Email: harshavardhana.holla@gmail.com
